@@ -2,6 +2,10 @@
 
 Java-based GUI simulation demonstrating SAP ERP module interaction including HCM (Employee Management), PP (Production), and WM (Inventory).
 
+## Screenshot
+
+![App Screenshot](images/image.png)
+
 Files:
 - `src/SAP_HCM_PP_WM_GUI.java` : Single-file Swing GUI application
 
