@@ -78,9 +78,9 @@ The project includes a **Java Swing-based SAP simulation system**:
 
 > *(Add your screenshots in /images folder and rename accordingly)*
 
-![HCM](images/hcm.png)
-![PP](images/pp.png)
-![WM](images/wm.png)
+![HCM](images/image.png)
+![PP](images/image.png)
+![WM](images/image.png)
 
 ---
 
